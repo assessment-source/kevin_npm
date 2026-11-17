@@ -1,0 +1,176 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Villa with Pool",
+    "slug": "modern-villa-with-pool",
+    "type": "villa",
+    "risk": "Medium",
+    "listedAt": "2026-01-12",
+    "joinedThisWeek": 6,
+    "location": "Beverly Hills, CA",
+    "status": "Active Investment",
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+    ],
+    "price": { "usd": 850000, "eth": 425 },
+    "roi": "7.2%",
+    "description": "A modern villa tokenized for fractional access. Investors can review rental yield, funding progress, and token supply. Purchases are not settled in this demo.",
+    "yearBuilt": 2020,
+    "parkingSpaces": 3,
+    "lotSize": "0.5 acres",
+    "features": ["Pool", "Smart Home", "Solar Panels"],
+    "metrics": {
+      "totalInvestors": 142,
+      "funded": "89%",
+      "minInvestment": "$10",
+      "monthlyIncome": "$520",
+      "appreciation": "4.5%",
+      "rentalYield": "5.8%",
+      "totalReturn": "10.3%"
+    },
+    "tokenDetails": {
+      "totalTokens": 85000,
+      "availableTokens": 9350,
+      "tokenPrice": "$10",
+      "tokenSymbol": "VILLA",
+      "contractAddress": "Not deployed",
+      "blockchain": "Ethereum"
+    },
+    "financials": {
+      "grossRent": "$8,500/month",
+      "netRent": "$7,225/month",
+      "expenses": {
+        "management": "8%",
+        "maintenance": "5%",
+        "insurance": "2%",
+        "property_tax": "1.2%"
+      },
+      "projectedAppreciation": "4.5% annually"
+    },
+    "agent": {
+      "name": "Alex Morgan",
+      "phone": "+1 (555) 010-2040",
+      "email": "alex@rentsphere.demo",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Luxury Penthouse",
+    "slug": "luxury-penthouse",
+    "type": "apartment",
+    "risk": "Low",
+    "listedAt": "2026-02-20",
+    "joinedThisWeek": 11,
+    "location": "Manhattan, NY",
+    "status": "Almost Funded",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80"
+    ],
+    "price": { "usd": 1200000, "eth": 600 },
+    "roi": "6.8%",
+    "description": "A Manhattan penthouse offered as rental-income shares. Funding, yield, and token availability come from the RentSphere listings API.",
+    "yearBuilt": 2018,
+    "parkingSpaces": 1,
+    "lotSize": "3,400 sq ft",
+    "features": ["Doorman", "Gym", "Terrace"],
+    "metrics": {
+      "totalInvestors": 203,
+      "funded": "95%",
+      "minInvestment": "$10",
+      "monthlyIncome": "$680",
+      "appreciation": "5.2%",
+      "rentalYield": "5.1%",
+      "totalReturn": "10.3%"
+    },
+    "tokenDetails": {
+      "totalTokens": 120000,
+      "availableTokens": 6000,
+      "tokenPrice": "$10",
+      "tokenSymbol": "PENTH",
+      "contractAddress": "Not deployed",
+      "blockchain": "Ethereum"
+    },
+    "financials": {
+      "grossRent": "$14,200/month",
+      "netRent": "$11,360/month",
+      "expenses": {
+        "management": "8%",
+        "maintenance": "4%",
+        "insurance": "2%",
+        "property_tax": "1.8%"
+      },
+      "projectedAppreciation": "5.2% annually"
+    },
+    "agent": {
+      "name": "Jordan Lee",
+      "phone": "+1 (555) 010-3388",
+      "email": "jordan@rentsphere.demo",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Waterfront Estate",
+    "slug": "waterfront-estate",
+    "type": "house",
+    "risk": "Medium",
+    "listedAt": "2026-03-18",
+    "joinedThisWeek": 4,
+    "location": "Miami Beach, FL",
+    "status": "New Listing",
+    "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80"
+    ],
+    "price": { "usd": 2100000, "eth": 1050 },
+    "roi": "7.5%",
+    "description": "A waterfront estate with open funding. The listing is a demo record served by the local RentSphere API.",
+    "yearBuilt": 2016,
+    "parkingSpaces": 4,
+    "lotSize": "0.8 acres",
+    "features": ["Waterfront", "Dock", "Wine Cellar"],
+    "metrics": {
+      "totalInvestors": 89,
+      "funded": "45%",
+      "minInvestment": "$10",
+      "monthlyIncome": "$1,200",
+      "appreciation": "6.1%",
+      "rentalYield": "6.4%",
+      "totalReturn": "12.5%"
+    },
+    "tokenDetails": {
+      "totalTokens": 210000,
+      "availableTokens": 115500,
+      "tokenPrice": "$10",
+      "tokenSymbol": "WAVE",
+      "contractAddress": "Not deployed",
+      "blockchain": "Ethereum"
+    },
+    "financials": {
+      "grossRent": "$22,000/month",
+      "netRent": "$17,600/month",
+      "expenses": {
+        "management": "8%",
+        "maintenance": "6%",
+        "insurance": "3%",
+        "property_tax": "1.4%"
+      },
+      "projectedAppreciation": "6.1% annually"
+    },
+    "agent": {
+      "name": "Sam Patel",
+      "phone": "+1 (555) 010-4412",
+      "email": "sam@rentsphere.demo",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80"
+    }
+  }
+]
